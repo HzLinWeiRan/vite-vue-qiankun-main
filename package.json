@@ -1,0 +1,19 @@
+{
+  "name": "vite-vue-qiankun-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.5"
+  },
+  "dependencies": {
+    "qiankun": "^2.10.7",
+    "vue-router": "^4.2.0"
+  }
+}
